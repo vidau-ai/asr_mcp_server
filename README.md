@@ -4,6 +4,7 @@ A Model Context Protocol (MCP) server that provides ASR(Automatic Speech Recogni
 ### Prerequisites
 - Python 3.10 or higher
 - uv package manager
+- openai whisper
 
 ### MCP Configuration
 ```json
