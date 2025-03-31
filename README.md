@@ -9,7 +9,7 @@ A Model Context Protocol (MCP) server that provides ASR(Automatic Speech Recogni
 ```json
 {
   "mcpServers": {
-    "kokoro-tts": {
+    "asr_mcp_server": {
       "command": "/YOUR_CONDA_PATH/bin/uv",
       "args": [
         "--directory",
